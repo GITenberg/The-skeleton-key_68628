@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '80'
     url: http://www.gutenberg.org/2009/agents/80
     wikipedia: https://en.wikipedia.org/wiki/G._K._Chesterton
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Capes, Bernard Edward Joseph
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5344
     wikipedia: https://en.wikipedia.org/wiki/Bernard_Capes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68628#The-skeleton-key
 gutenberg_issued: '2022-07-28'
 identifiers:
   gutenberg: '68628'
